@@ -1,7 +1,13 @@
+Parts list
+
+Battery:
 digikey.co.uk/en/products/detail/jauch-quartz/LP504783JU-PCM-2-WIRES-70MM/21725020
 
+MCU:
 heltec.org/project/wifi-lora-32-v3/
 
+Antenna:
 digikey.co.uk/en/products/detail/quectel/YFGA007AA21273033
 
-% store.rakwireless.com/products/wismesh-ethernet-gateway?variant=44413995385030&utm_medium=Document&utm 
+Network bridge:
+store.rakwireless.com/products/wismesh-ethernet-gateway?variant=44413995385030&utm_medium=Document&utm 
